@@ -1,0 +1,86 @@
+.container-fluid {
+  /* 設定容器寬度 */
+  max-width:1440px;
+}
+
+/* 左方選單 t 標題, i 物件 */
+
+.L01_t{
+  background: #99CC66;
+}
+
+.L01_i{
+  background: #99CC66;
+}
+
+.L02_t{
+  background: #99CCFF;
+}
+
+.L02_i{
+  background: #99CCFF;
+}
+
+.L03_t{
+  background: #FF9999;
+}
+
+.L03_i{
+  background: #FF9999;
+}
+
+.L04_t{
+  background: #FFFF99;
+}
+
+.L04_i{
+  background: #FFFF99;
+}
+
+
+.L05_t{
+  background: #99CC66;
+}
+
+.L05_i{
+  background: #99CC66;
+}
+
+/* 右方選單 t 標題, i 物件 */
+
+.R01_t{
+  background: #FF9999;
+}
+
+.R01_i{
+  background: #FF9999;
+}
+
+.R02_t{
+  background: #FFFF99;
+}
+
+.R02_i{
+  background: #FFFF99;
+}
+
+.R03_t{
+  background: #99CC66;
+}
+
+.R03_i{
+  background: #99CC66;
+}
+
+.R04_t{
+  background: #99CCFF;
+}
+
+.R04_i{
+  background: #99CCFF;
+}
+
+.sp{
+  /* 上下間隔用 */
+  margin:5px
+}
